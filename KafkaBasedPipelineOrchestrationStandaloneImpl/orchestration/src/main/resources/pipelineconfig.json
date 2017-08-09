@@ -1,0 +1,16 @@
+{
+"metadata" : {
+"name" : "samplepipeline",
+"executertopic": "sample"
+},
+"actions" : [
+{
+"name" : "step1",
+"topic" : "step1topic"
+},
+{
+"name" : "step2",
+"topic" : "step2topic"
+}
+]
+}
